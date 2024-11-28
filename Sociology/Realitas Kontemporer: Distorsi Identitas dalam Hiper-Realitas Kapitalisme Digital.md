@@ -1,4 +1,5 @@
 # Realitas Kontemporer: Distorsi Identitas dalam Hiper-Realitas Kapitalisme Digital
+### By Afrizal F.A
 
 Realitas kontemporer telah mengalami pergeseran mendasar akibat dominasi media, teknologi, dan kapitalisme budaya. Dunia yang dahulu dipahami melalui pengalaman fisik kini tereduksi menjadi konstruksi digital yang dimediasi oleh kecanggihan teknologi seperti kecerdasan buatan (AI), realitas tertambah (AR), realitas virtual (VR), dan manipulasi digital seperti deepfakes. Fenomena ini menciptakan sebuah hiper-realitas di mana batas antara dunia nyata dan dunia virtual semakin kabur, sehingga realitas yang kita alami tidak lagi sepenuhnya autentik, melainkan representasi yang diciptakan oleh teknologi.
 
